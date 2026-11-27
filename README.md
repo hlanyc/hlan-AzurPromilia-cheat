@@ -43,6 +43,11 @@ Azur Promilia cheat , support CN
 
 **Teleport:**
 - Custom Teleport
+- teleport cheat/pickups
+- teleport targets
+
+**Misc:**
+- entity index
 
 **Settings:**
 - save cfg
