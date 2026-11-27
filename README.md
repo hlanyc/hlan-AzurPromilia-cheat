@@ -24,6 +24,8 @@ Azur Promilia cheat , support CN
 - Damage multiplier
 - skill no cd
 - ultimate no cd
+- unlimited dodge
+
 
 **World:**
 - skip story
@@ -31,9 +33,16 @@ Azur Promilia cheat , support CN
 - unlock skip
 - story speed
 - Auto dialogue choice
+- auto pickup
+- auto open cheats
+- pick up in range
+
+**Visual:**
+- esp
+
 
 **Teleport:**
 - Custom Teleport
-- 
+
 **Settings:**
 - save cfg
